@@ -64,4 +64,5 @@ PDF Input
 
 ## Status
 
-This project is part of ongoing work at **USC GRIDS Club**. Contributions and feedback welcome.
+This project is part of ongoing work at **USC GRIDS Club**.
+Facing slight errors in the model understanding of lease text. Trying different models/prompts
