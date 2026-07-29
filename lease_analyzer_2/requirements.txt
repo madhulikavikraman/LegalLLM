@@ -1,0 +1,15 @@
+streamlit>=1.33
+pdfplumber>=0.10
+pypdf>=4.0
+pdf2image>=1.17
+pytesseract>=0.3.10
+sentence-transformers>=2.6
+faiss-cpu>=1.8
+nltk>=3.8
+transformers>=4.40
+accelerate>=0.30
+torch>=2.2
+plotly>=5.20
+pandas>=2.2
+kaleido>=0.2.1
+fpdf2>=2.7
